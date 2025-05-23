@@ -1,4 +1,4 @@
-package com.votingapp.votingapp;
+package com.todoappnew.todoappnew;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
