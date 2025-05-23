@@ -1,13 +1,13 @@
-package com.todoappnew.todoappnew;
+package com.votingapp.votingapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TodoappnewApplication {
+public class VotingAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TodoappnewApplication.class, args);
+		SpringApplication.run(VotingAppApplication.class, args);
 	}
 
 }
